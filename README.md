@@ -1,7 +1,7 @@
 CTF-Katana
 ===============
 
-> John Hammond | February 1st, 2018
+>  | February 1st, 2018
 
 --------------------------
 
